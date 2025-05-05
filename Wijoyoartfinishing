@@ -1,0 +1,43 @@
+# Wijoyoartfinishing
+
+Wijoyoartfinishing adalah layanan finishing furnitur yang memberikan sentuhan elegan dan kualitas terbaik untuk berbagai jenis furnitur. Kami fokus pada detail dan estetika, menjadikan setiap produk lebih berkelas dan awet.
+
+## Fitur Website
+
+Website ini menyediakan layanan berikut:
+
+- **Chat Langsung**: Pengguna dapat menghubungi kami langsung melalui email, WhatsApp, atau Instagram DM untuk konsultasi mengenai furnitur yang ingin di-finishing.
+- **Form Kontak**: Pengguna dapat mengisi form untuk menyampaikan informasi terkait produk dan pesan yang ingin disampaikan.
+
+## Teknologi yang Digunakan
+
+Website ini dibangun dengan HTML dan CSS dasar. Semua halaman dikemas dalam satu file `index.html`.
+
+- HTML: Struktur dasar halaman web.
+- CSS: Styling halaman untuk memberikan tampilan elegan dan modern.
+
+## Instalasi
+
+Untuk menggunakan website ini, Anda cukup mengunduh file `index.html` dan membukanya di browser favorit Anda.
+
+1. Unduh file ZIP dari repositori ini.
+2. Ekstrak file ZIP.
+3. Buka `index.html` di browser.
+
+## Cara Berinteraksi
+
+Pengguna dapat langsung menghubungi kami dengan memilih salah satu tombol komunikasi di bawah:
+
+- **Kirim via Email**: Kirimkan pesan langsung ke kami melalui email.
+- **Chat via WhatsApp**: Arahkan ke WhatsApp untuk percakapan lebih cepat.
+- **DM via Instagram**: Kirimkan pesan langsung melalui DM Instagram kami.
+
+## Kontak
+
+- **Email**: wijoyoartfinishing@gmail.com
+- **Telepon**: +62 812-3456-7890
+- **Instagram**: [@wijoyoartfinishing](https://instagram.com/wijoyoartfinishing)
+
+## Lisensi
+
+MIT License - Lihat [LICENSE](LICENSE) untuk detail lebih lanjut.
